@@ -1,1 +1,8 @@
-# TP-grupo3-recu
+# TPVMCA-grupo-3
+
+### Integrantes
+
+- MARIA FALOMO
+- VALENTINO FANELLO
+- BRUNO VALLONE
+- NAHUEL BARRAZA
